@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1595331f-bdd1-47fe-9816-5f0049e12723" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Enemy3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Player1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Player2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Background.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Background.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/EntityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/EntityFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +30,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DavidWilian"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DavidWilian/LPAprojetoAula.git",
+    "accountId": "68effe30-4da4-462e-aa88-39a1ff2e550c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2hejB3V0BoLh7C7SQikC2Si6IwL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,14 +59,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "versão02",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/LPAProjetoAula/MountainShooter/asset"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\LPAProjetoAula\MountainShooter\asset" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="MountainShooter" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -50,6 +96,13 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,15 +114,15 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
