@@ -29,3 +29,5 @@ class EntityFactory:
                 return Enemy('Enemy1', (WIN_WIDTH + 10, random.randint(0 + 40, WIN_HEIGHT - 40)))
             case 'Enemy2':
                 return Enemy('Enemy2', (WIN_WIDTH + 10, random.randint(0 + 40, WIN_HEIGHT - 40)))
+            case 'Enemy3':
+                return Enemy('Enemy3', (WIN_WIDTH + 10, random.randint(0 + 40, WIN_HEIGHT - 40)))
