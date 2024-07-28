@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1595331f-bdd1-47fe-9816-5f0049e12723" name="Changes" comment="Criação de inimigos">
-      <change afterPath="$PROJECT_DIR$/Code/EnemyShot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/EntityMediator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/PlayerShot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy1Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy2Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy3Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player1Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player2Shot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DiagramaJogo.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagramaJogo.mdj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/EntityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/EntityFactory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/const.py" afterDir="false" />
-    </list>
+    <list default="true" id="1595331f-bdd1-47fe-9816-5f0049e12723" name="Changes" comment="Criação de Tiros" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721738907849</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criação de Tiros">
+      <option name="closed" value="true" />
+      <created>1721868661166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721868661166</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando o primeiro movimento do menu" />
     <MESSAGE value="Criação de inimigos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de inimigos" />
+    <MESSAGE value="Criação de Tiros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de Tiros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
